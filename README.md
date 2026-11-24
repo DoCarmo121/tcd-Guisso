@@ -9,6 +9,7 @@ Aplicação web desenvolvida em Next.js (App Router) e TypeScript estrito para a
 - João Gabriel do Carmo Brito
 - Bruno Henrique Nogueira
 - Bernardo Oliveira Santos
+
 ---
 
 ## Requisitos e instruções de execução
