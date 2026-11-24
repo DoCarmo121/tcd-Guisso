@@ -1,0 +1,7 @@
+# Ignora dependências, build e artefatos gerados.
+node_modules
+.next
+out
+build
+package-lock.json
+next-env.d.ts

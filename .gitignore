@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -39,3 +40,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# reference PDFs
+/Avaliação Atitudinal_ Modelo de Domínio e Interface Mock.pdf
+/Sistema Web para Avaliação Atitudinal_ Desafios, Possibilidades e Referências Internacionais \[v03\]-1.pdf
+/typescript-react-tailwindcss-nextjs-supabase--modulos-1-2-3.pdf
