@@ -53,7 +53,7 @@ export type Student = {
   name: string;
   registration: string;
   status: StudentStatus;
-  // Data de nascimento opcional em formato ISO 8601 (YYYY-MM-DD) ou nula.
+  // Data de nascimento opcional em formato ISO 8601 com sufixo Z ou nula.
   birthDate: string | null;
   createdAt: string;
   updatedAt: string;
